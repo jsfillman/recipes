@@ -1,6 +1,6 @@
 # Recipes
 
-This repository contains recipes for delicious foods.
+This repository contains recipes for a few delicious foods.
 
 This repository is used in [Udacity's Git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
